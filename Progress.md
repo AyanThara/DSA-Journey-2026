@@ -31,4 +31,24 @@
 - Practiced the first program
 - practiced arithematci and relational and logical operators
 -------------------------------------------------------------------------------------------------------------------------------------------------
+## 📅 Day 3
+
+### Topics Covered
+- while loop
+- if–else statements
+- else if ladder
+- Nested while loops
+- Pattern problems:
+  - Square star pattern
+  - Number square pattern
+### Practice Problems
+- Sum of numbers till N
+- Sum of even numbers till N
+- Sum of odd numbers till N
+- Prime number check
+### Notes
+- Understood loop control and termination
+- Learned how nested loops work for pattern printing
+- Improved conditional logic using if–else
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
