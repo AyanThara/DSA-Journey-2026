@@ -46,12 +46,16 @@
 - Sum of even numbers till N
 - Sum of odd numbers till N
 - Prime number check
-- pattern 1
+- pattern 1 
 1111
 2222
 3333
 4444
-- pattern 2
+- pattern 2 square
+ ****
+****
+****
+****
   
 ### Notes
 - Understood loop control and termination
@@ -66,7 +70,7 @@
 - Pattern problems:
   - Number square pattern
 
-### Pattern Practiced
+### Pattern Practiced 
 1234
 1234
 1234
