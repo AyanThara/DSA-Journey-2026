@@ -46,6 +46,13 @@
 - Sum of even numbers till N
 - Sum of odd numbers till N
 - Prime number check
+- pattern 1
+1111
+2222
+3333
+4444
+- pattern 2
+  
 ### Notes
 - Understood loop control and termination
 - Learned how nested loops work for pattern printing
