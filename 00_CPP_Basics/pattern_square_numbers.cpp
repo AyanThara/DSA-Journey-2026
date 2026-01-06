@@ -14,3 +14,10 @@ int main() {
         i++;
     }
 }
+
+/*prints pattern 
+when n=4
+1234
+1234
+1234
+1234*/
