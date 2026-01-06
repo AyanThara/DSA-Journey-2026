@@ -14,3 +14,8 @@ int main() {
         i++;
     }
 }
+// Prints reverse number square pattern
+// Example (n = 3):
+// 321
+// 321
+// 321
