@@ -14,3 +14,9 @@ int main() {
         i++;
     }
 }
+//prints sqaure patterns based on input 
+//n=4
+//****
+//****
+//****
+//****
