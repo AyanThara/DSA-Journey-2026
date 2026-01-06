@@ -93,3 +93,10 @@
 **
 ***
 ****
+
+### Pattern 7 – Number triangle pattern
+1
+22
+333
+4444
+
