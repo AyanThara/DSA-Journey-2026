@@ -70,8 +70,15 @@
 - Pattern problems:
   - Number square pattern
 
-### Pattern Practiced 
+### Pattern 3 
 1234
 1234
 1234
 1234
+- Reverse number square pattern using (n - j + 1) - pattern 4
+321
+321
+321
+
+
+
