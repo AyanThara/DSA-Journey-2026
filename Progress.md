@@ -105,4 +105,8 @@
 4 5 6
 7 8 9 10
 
-###pattern 9-
+### Pattern 9 – Incremental number triangle
+1
+23
+345
+4567
