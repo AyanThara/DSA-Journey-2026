@@ -113,3 +113,9 @@ AAAA
 BBBB
 CCCC
 DDDD
+
+### Pattern 12 – Alphabet column pattern
+ABCD
+ABCD
+ABCD
+ABCD
