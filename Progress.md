@@ -108,14 +108,28 @@
 # 📅 Day 5
 ### Topics Covered
 - Pattern problems:
-### Pattern 11 – Alphabet square pattern
+### Pattern 10 – Alphabet square pattern
 AAAA
 BBBB
 CCCC
 DDDD
 
-### Pattern 12 – Alphabet column pattern
+### Pattern 11 – Alphabet column pattern
 ABCD
 ABCD
 ABCD
 ABCD
+### Pattern 12 – Continuous alphabet square pattern
+ABC
+DEF
+GHI
+- Bitwise operators:
+  - AND (&)
+  - OR (|)
+  - XOR (^)
+  - NOT (~)
+
+Note:
+- Understood how bitwise operators work at bit level
+
+
