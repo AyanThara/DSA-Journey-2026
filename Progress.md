@@ -153,4 +153,4 @@ Note:
 - Learned the difference between pre and post increment/decrement
 - Practiced operator behavior in expressions
 ------------------------------------------------------------------------------------------------------------------------------------------------
-## 📅 Day 7
+## 📅 Day 6
