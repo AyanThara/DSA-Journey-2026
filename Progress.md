@@ -123,6 +123,8 @@ ABCD
 ABC
 DEF
 GHI
+
+Topics covered:
 - Bitwise operators:
   - AND (&)
   - OR (|)
@@ -132,5 +134,22 @@ GHI
 Note:
 - Understood how bitwise operators work at bit level
 - Practiced basic bitwise operators (AND, OR, XOR, NOT)
+------------------------------------------------------------------------------------------------------------------------------------------------
+## 📅 Day 6
 
+### Topics Covered
+- Bitwise operators:
+  - Left shift (`<<`)
+  - Right shift (`>>`)
+- Increment / Decrement operators:
+  - Pre-increment (`++i`)
+  - Post-increment (`i++`)
+  - Pre-decrement (`--i`)
+  - Post-decrement (`i--`)
+
+### Notes
+- Understood how left shift multiplies a number by powers of 2
+- Understood how right shift divides a number by powers of 2
+- Learned the difference between pre and post increment/decrement
+- Practiced operator behavior in expressions
 
