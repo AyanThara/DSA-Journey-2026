@@ -152,4 +152,5 @@ Note:
 - Understood how right shift divides a number by powers of 2
 - Learned the difference between pre and post increment/decrement
 - Practiced operator behavior in expressions
-
+------------------------------------------------------------------------------------------------------------------------------------------------
+## 📅 Day 7
