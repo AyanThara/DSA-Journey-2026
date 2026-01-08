@@ -151,5 +151,5 @@ Note:
 - Understood how left shift multiplies a number by powers of 2
 - Understood how right shift divides a number by powers of 2
 - Learned the difference between pre and post increment/decrement.
-- Practiced operator behavior in expressions.
+- Practiced operator behavior in expressions
 
