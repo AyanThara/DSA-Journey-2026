@@ -59,7 +59,7 @@
   
 ### Notes
 - Understood loop control and termination.
-- Learned how nested loops work for pattern printing
+- Learned how nested loops work for pattern printing.
 - Improved conditional logic using if–else.
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
