@@ -29,7 +29,7 @@
 - Learned the difference between signed and unsigned integers
 - Practiced basic operators in C++
 - Practiced the first program
-- practiced arithematci and relational and logical operators
+- practiced arithematci and relational and logical operators.
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📅 Day 3
 
