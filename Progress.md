@@ -133,7 +133,7 @@ Topics covered:
 
 Note:
 - Understood how bitwise operators work at bit level
-- Practiced basic bitwise operators (AND, OR, XOR, NOT)
+- Practiced basic bitwise operators (AND, OR, XOR, NOT).
 ------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📅 Day 6
 
