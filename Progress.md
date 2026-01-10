@@ -151,6 +151,6 @@ Note:
 - Increment / Decrement operators:
   - Pre-increment (`++i`)
   - Post-increment (`i++`).
-  - Pre-decrement (`--i`)
+  - Pre-decrement (`--i`).
   - Post-decrement (`i--`).
 - Learned the difference between pre and post increment/decrement
