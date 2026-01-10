@@ -152,5 +152,5 @@ Note:
   - Pre-increment (`++i`)
   - Post-increment (`i++`)
   - Pre-decrement (`--i`)
-  - Post-decrement (`i--`)
+  - Post-decrement (`i--`).
 - Learned the difference between pre and post increment/decrement
