@@ -141,17 +141,16 @@ Note:
 - Bitwise operators:
   - Left shift (`<<`)
   - Right shift (`>>`)
+
+### Notes
+- Understood how left shift multiplies a number by powers of 2
+- Understood how right shift divides a number by powers of 2
+- Practiced operator behavior in expressions
+------------------------------------------------------------------------------------------------------------------------------------------------
+## 📅 Day 7
 - Increment / Decrement operators:
   - Pre-increment (`++i`)
   - Post-increment (`i++`)
   - Pre-decrement (`--i`)
   - Post-decrement (`i--`)
-
-### Notes
-- Understood how left shift multiplies a number by powers of 2
-- Understood how right shift divides a number by powers of 2
 - Learned the difference between pre and post increment/decrement
-- Practiced operator behavior in expressions
-------------------------------------------------------------------------------------------------------------------------------------------------
-## 📅 Day 7
-new day 
