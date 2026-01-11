@@ -152,10 +152,4 @@ Note:
 - Practiced operator behavior in expressions
 -  Learned the difference between pre and post increment/decrement
 ------------------------------------------------------------------------------------------------------------------------------------------------
-## 📅 Day 7
-- Increment / Decrement operators:
-  - Pre-increment (`++i`)
-  - Post-increment (`i++`).
-  - Pre-decrement (`--i`).
-  - Post-decrement (`i--`).
-- Learned the difference between pre and post increment/decrement
+
