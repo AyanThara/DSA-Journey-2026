@@ -25,7 +25,7 @@
 ### Notes
 - Understood how C++ source code is compiled step by step.
 - Learned the difference between signed and unsigned integers
-- Practiced basic operators in C++
+- Practiced basic operators in C++.
 - Practiced the first program
 - practiced arithematci and relational and logical operators
 -------------------------------------------------------------------------------------------------------------------------------------------------
