@@ -128,7 +128,6 @@ Topics covered:
   - OR (|)
   - XOR (^)
   - NOT (~)
-
 Note:
 - Understood how bitwise operators work at bit level.
 - Practiced basic bitwise operators (AND, OR, XOR, NOT).
