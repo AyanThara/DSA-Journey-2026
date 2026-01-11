@@ -141,7 +141,7 @@ Note:
   - Pre-increment (`++i`)
   - Post-increment (`i++`).
   - Pre-decrement (`--i`).
-  - Post-decrement (`i--`).
+  - Post-decrement (`i--`)
 ### Notes
 - Understood how left shift multiplies a number by powers of 2
 - Understood how right shift divides a number by powers of 2
