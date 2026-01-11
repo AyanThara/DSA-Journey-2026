@@ -136,7 +136,6 @@ Note:
 - Practiced basic bitwise operators (AND, OR, XOR, NOT).
 ------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📅 Day 6
-
 ### Topics Covered
 - Bitwise operators:
   - Left shift (`<<`)
