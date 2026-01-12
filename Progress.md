@@ -11,7 +11,7 @@
 - Understood how flowcharts help before coding
 - Learned how variables store data in C++
 ------------------------------------------------------------------------------------------------------------------------------------------------
---
+-
 ## 📅 Day 2
 
 ### Topics Covered
