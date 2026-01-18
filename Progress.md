@@ -15,7 +15,7 @@
 ### Topics Covered
 - C++ compilation process
 - Variable naming conventions
-- Storage of positive and negative numbers -
+- Storage of positive and negative numbers 
 - Signed int vs unsigned int
 - Operators:
   - Arithmetic
