@@ -150,6 +150,7 @@ Note:
 
 ### Topics Covered
 - for loop
+- break and continue 
 - Sum of numbers till N
 - Fibonacci series till N
 - Revision of previous concepts:
@@ -161,5 +162,7 @@ Note:
 ### Notes
 - Understood syntax and use of for loop
 - Learned difference between for loop and while loop
-- Practiced Fibonacci series using loops
+- Practiced Fibonacci series using for loop
+- practiced sum till n using for loop
+- practiced prime or not prime using for loop
 - Revised earlier concepts to strengthen fundamentals
