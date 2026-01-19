@@ -28,9 +28,8 @@
 - Practiced basic operators in C++.
 - Practiced the first program
 - practiced arithematci and relational and logical operators
--------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📅 Day 3
-
 ### Topics Covered
 - while loop
 - if–else statements
@@ -54,13 +53,11 @@
 ****
 ****
 ****
-  
 ### Notes
 - Understood loop control and termination.
 - Learned how nested loops work for pattern printing.
 - Improved conditional logic using if–else.
 ------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## 📅 Day 4
 ### Topics Covered
 - Pattern problems:
@@ -148,4 +145,21 @@ Note:
 - Practiced operator behavior in expressions
 -  Learned the difference between pre and post increment/decrement
 ------------------------------------------------------------------------------------------------------------------------------------------------
-##
+
+## 📅 Day 7
+
+### Topics Covered
+- for loop
+- Sum of numbers till N
+- Fibonacci series till N
+- Revision of previous concepts:
+  - while loop
+  - if–else
+  - operators
+  - pattern logic
+
+### Notes
+- Understood syntax and use of for loop
+- Learned difference between for loop and while loop
+- Practiced Fibonacci series using loops
+- Revised earlier concepts to strengthen fundamentals
