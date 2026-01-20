@@ -1,6 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-
 /*
 LeetCode 7 - Reverse Integer
 Difficulty: Easy
