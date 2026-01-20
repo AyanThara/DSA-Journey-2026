@@ -10,6 +10,9 @@ Maintain consistency through daily practice
 C++
 
 Problems Solved
-Problem No.	Problem Name	Difficulty
-1281	Subtract the Product and Sum of Digits of an Integer	Easy
-More problems will be added regularly as I continue practicing.
+| Problem No. | Problem Name | Difficulty |
+|------------|--------------|------------|
+| 1281 | Subtract the Product and Sum of Digits of an Integer | Easy |
+| 191 | Number of 1 Bits | Easy |
+| 7 | Reverse Integer | Medium |
+
