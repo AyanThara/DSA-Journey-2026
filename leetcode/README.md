@@ -8,7 +8,7 @@ Maintain consistency through daily practice
 
 🛠 Language Used
 C++
-
+Cpp
 Problems Solved
 | Problem No. | Problem Name | Difficulty |
 |------------|--------------|------------|
