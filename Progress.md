@@ -145,9 +145,7 @@ Note:
 - Practiced operator behavior in expressions
 -  Learned the difference between pre and post increment/decrement
 ------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## 📅 Day 7
-
 ### Topics Covered
 - for loop
 - break and continue 
@@ -166,3 +164,19 @@ Note:
 - practiced sum till n using for loop
 - practiced prime or not prime using for loop
 - Revised earlier concepts to strengthen fundamentals
+------------------------------------------------------------------------------------------------------------------------------------------------
+## 📅 Day 8
+### Topics Covered
+- Variable scope:
+  - Local variables
+  - Global variables
+- Operator precedence
+- Revision of previous concepts
+
+### Notes
+- Understood the difference between local and global variable scope
+- Learned how variable scope affects accessibility and lifetime
+- Studied operator precedence and order of evaluation in expressions
+- Practiced evaluating expressions based on precedence rules
+- Solved LeetCode 1281: Subtract the product and sum of digits of a number
+
