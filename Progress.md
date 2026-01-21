@@ -199,4 +199,5 @@ Note:
 ## Problems Solved
 - LeetCode 7: Reverse Integer
 - Decimal to Binary Conversion
+- Binary to decimal conversion
 -------------------------------------------------------------------------------------
