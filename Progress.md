@@ -179,4 +179,22 @@ Note:
 - Studied operator precedence and order of evaluation in expressions
 - Practiced evaluating expressions based on precedence rules
 - Solved LeetCode 1281: Subtract the product and sum of digits of a number
+- Solved Leetcode 191: Count the number of set bits
+------------------------------------------------------------------------------------------------------------------------------------------------
+## 📅 Day 9 
+### Topics Covered
+- Reverse Integer (LeetCode 7)
+- Difference between reverse logic and positional (power) logic
+- Decimal to Binary conversion using bit manipulation
+- Understanding why power logic fails for reverse
+- Bitwise operators (&, >>)
 
+## Key Learnings
+- Reverse integer works using shifting logic:  'ans = ans * 10 + digit'
+- Power-based logic requires correct digit order
+- Decimal to Binary uses positional placement, not reverse logic
+- '%10 /10' is for decimal, '&1 >>1` is for binary
+
+## Problems Solved
+- LeetCode 7: Reverse Integer
+- Decimal to Binary Conversion
