@@ -200,4 +200,19 @@ Note:
 - LeetCode 7: Reverse Integer
 - Decimal to Binary Conversion
 - Binary to decimal conversion
--------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
+## 📅 Day 10 
+## Problems Solved
+1. LeetCode 412 – Fizz Buzz
+2. Reverse an Array – GeeksforGeeks
+
+## Concepts Covered
+- Conditional logic
+- Looping
+- Array manipulation
+## Key Learnings
+- Used conditional checks to solve Fizz Buzz
+- Reversed array in-place using swapping
+- Improved confidence with basic array problems
+
+
