@@ -1,6 +1,6 @@
 ## 📅 Day 1
 ### Topics Covered
-- Flowcharts   ##33
+- Flowcharts   ##3
 1 Triangle or not
 2 Sum of numbers    
 3 Sum of numbers till n
