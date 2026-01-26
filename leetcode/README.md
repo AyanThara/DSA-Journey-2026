@@ -16,3 +16,4 @@ Problems Solved
 | 191         | Number of 1 Bits                                     | Easy       |
 | 7           | Reverse Integer                                      | Medium     |
 | 1009        | Complement of Base 10 Integer                        | Easy       |
+| 231 | Power of Two | Easy |
