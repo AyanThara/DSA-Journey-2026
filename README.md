@@ -30,4 +30,3 @@ This repository documents my complete Data Structures & Algorithms journey start
 - Dynamic Programming
 
 > Consistency over intensity.
-]d
