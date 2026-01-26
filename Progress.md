@@ -173,7 +173,7 @@ Note:
   - Global variables
 - Operator precedence
 - Revision of previous concepts
-
+- 
 ### Notes
 - Understood the difference between local and global variable scope
 - Learned how variable scope affects accessibility and lifetime
@@ -214,5 +214,7 @@ Note:
 - Used conditional checks to solve Fizz Buzz
 - Reversed array in-place using swapping
 - Improved confidence with basic array problems
-
-
+------------------------------------------------------------------------------------------------------------------------------------------------
+## 📅 Day 11
+## Problems Solved
+1. LeetCode 1009 – Complement of base 10 integer
