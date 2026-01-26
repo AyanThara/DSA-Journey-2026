@@ -202,19 +202,35 @@ Note:
 - Binary to decimal conversion
 ------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📅 Day 10 
-## Problems Solved
-1. LeetCode 412 – Fizz Buzz
-2. Reverse an Array – GeeksforGeeks
-
-## Concepts Covered
+## Topics Covered
 - Conditional logic
 - Looping
 - Array manipulation
+
+  ## Problems Solved
+1. LeetCode 412 – Fizz Buzz
+2. Reverse an Array – GeeksforGeeks
+   
 ## Key Learnings
 - Used conditional checks to solve Fizz Buzz
 - Reversed array in-place using swapping
 - Improved confidence with basic array problems
 ------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📅 Day 11
-## Problems Solved
-1. LeetCode 1009 – Complement of base 10 integer
+### Topics Covered
+- Switch case in C++
+- break and continue
+- Basic control flow
+- Bit manipulation basics
+
+### 🧩 Problems Solved
+1. LeetCode 1009 – Complement of Base 10 Integer
+2. LeetCode 231 – Power of Two
+3. Fibonacci Series (Basic Program)
+4. Simple Calculator using switch
+
+### Key Learnings 
+- Practiced switch statements
+- Solved easy bit manipulation problems
+- Implemented Fibonacci series using loop
+------------------------------------------------------------------------------------------------------------------------------------------------
