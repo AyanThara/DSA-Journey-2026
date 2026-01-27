@@ -234,3 +234,18 @@ Note:
 - Solved easy bit manipulation problems
 - Implemented Fibonacci series using loop
 ------------------------------------------------------------------------------------------------------------------------------------------------
+## 📅 Day 12
+###Topics Covered
+- Functions in C++
+- Function declaration and definition
+- Parameters vs arguments
+- Return types
+- Multiple function calls
+
+### 🧩 Problems Solved
+1. Add two numbers using function  
+2. Maximum of three numbers using function  
+
+### 🧠 Key Learnings
+- Understood how functions improve code reusability
+- Learned importance of initializing variables before passing to functions
