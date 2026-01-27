@@ -240,12 +240,26 @@ Note:
 - Function declaration and definition
 - Parameters vs arguments
 - Return types
-- Multiple function calls
+- Pass by value
+- Pass by reference
 
 ### 🧩 Problems Solved
 1. Add two numbers using function  
-2. Maximum of three numbers using function  
+2. Maximum of three numbers using function
+3. Fibonacci series using loop  
+4. Nth term of AP using function  
+5. Swap two numbers (pass by value vs pass by reference)
 
 ### 🧠 Key Learnings
 - Understood how functions improve code reusability
-- Learned importance of initializing variables before passing to functions
+- Clearly differentiated between parameters and arguments
+- Learned that pass by value does not change original variables
+- Learned that pass by reference allows modifying original variables
+- Gained clarity on how memory works during function calls
+------------------------------------------------------------------------------------------------------------------------------------------------
+## 📅 Day 13
+###Topics Covered
+-Started Arrays
+-
+
+
