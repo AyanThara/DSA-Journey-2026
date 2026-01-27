@@ -20,7 +20,7 @@ This repository documents my complete Data Structures & Algorithms journey start
 - Weekly revision
 - Continuous improvement
 
-### 🧩 Topics Covered
+### 🧩 Topics to be  Covered
 - Arrays
 - Strings
 - Linked Lists
