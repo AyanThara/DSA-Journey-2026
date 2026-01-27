@@ -1,5 +1,5 @@
 ## 📅 Day 1
-### Topics Covered
+### Topics Covered 8
 - Flowcharts   
 1 Triangle or not
 2 Sum of numbers    
