@@ -270,6 +270,8 @@ Note:
 - Print array using function
 - Find maximum element in array
 - Swap alternate elements in array
+- Finding the unique element in the array -coding ninjas
+
 
 ### Key Learnings
 - Arrays are passed to functions by reference
