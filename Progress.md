@@ -257,8 +257,24 @@ Note:
 - Learned that pass by reference allows modifying original variables
 - Gained clarity on how memory works during function calls
 ------------------------------------------------------------------------------------------------------------------------------------------------
-## 📅 Day 13
-###Topics Covered
+## 📅 Day 13 – Arrays
+### Topics Covered
+- Array declaration and initialization
+- Array traversal
+- Arrays with functions
+- Finding maximum element
+- Swapping alternate elements
+- Linear time complexity (O(n))
+
+### Programs Practiced
+- Print array using function
+- Find maximum element in array
+- Swap alternate elements in array
+
+### Key Learnings
+- Arrays are passed to functions by reference
+- Passing array size is necessary in functions
+
 
 
 
