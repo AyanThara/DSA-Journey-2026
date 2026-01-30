@@ -258,25 +258,23 @@ Note:
 - Gained clarity on how memory works during function calls
 ------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📅 Day 13 – Arrays
-### Topics Covered
+###  Topics Covered
 - Array declaration and initialization
 - Array traversal
-- Arrays with functions
-- Finding maximum element
+- Passing arrays to functions
+- Finding the maximum element
 - Swapping alternate elements
-- Linear time complexity (O(n))
+- Understanding linear time complexity (O(n))
 
 ### Programs Practiced
-- Print array using function
-- Find maximum element in array
-- Swap alternate elements in array
-- Finding the unique element in the array -coding ninjas
-
+- Printing an array using a function
+- Finding the maximum element in an array
+- Swapping alternate elements in an array
+- Finding the unique element in an array (Coding Ninjas)
 
 ### Key Learnings
-- Arrays are passed to functions by reference
-- Passing array size is necessary in functions
-
+- Arrays are passed to functions by reference in C++
+- Passing the array size is necessary when working with functions
 
 
 
